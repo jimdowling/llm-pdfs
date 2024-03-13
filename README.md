@@ -2,6 +2,9 @@
 
 This project will take a google drive folder of PDF files that you provide and read them, index them in vector embeddings in Hopsworks for retrieval augmented generation (RAG) and create an instruction dataset for fine-tuning using a teacher model (GPT).
 
+
+![./private-pdfs-llm-hopsworks.png](Hopsworks Architecture for Private PDFs Indexed for LLMs)
+
 ## Feature Pipeline
 The Feature Pipeline does the following:
 
